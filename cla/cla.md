@@ -4,13 +4,15 @@ Thank you for your interest in contributing to open source software projects mad
 
 This Contribution License Agreement ("**Agreement**") is agreed to by the party signing below ("You"), and conveys certain license rights to Siemens for Your contributions to Siemens open source projects. This Agreement is effective as of the signature date below.  
 
-1. **Definitions**. "**Code**" means the computer software code, whether in human-readable or machine-executable form, that is delivered by You to Siemens under this Agreement.  
+1. **Definitions**.
+  
+   "**Code**" means the computer software code, whether in human-readable or machine-executable form, that is delivered by You to Siemens under this Agreement.
 
-"**Project**" means any of the projects owned or managed by Siemens in which software is offered under a license approved by the Open Source Initiative (OSI) (www.opensource.org) and documentation offered under an OSI or a Creative Commons license (https://creativecommons.org/licenses) and for which Siemens defines this Agreement as a requirement. 
-
-"**Submit**" is the act of uploading, submitting, transmitting, or distributing code or other content to any Project, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Project for the purpose of discussing and improving that Project.  
-
-"**Submission**" means the Code and any other copyrightable material Submitted by You, including any associated comments and documentation, specifications, data, materials, feedback, information or other works of authorship.  
+   "**Project**" means any of the projects owned or managed by Siemens in which software is offered under a license approved by the Open Source Initiative (OSI) (www.opensource.org) and documentation offered under an OSI or a Creative Commons license (https://creativecommons.org/licenses) and for which Siemens defines this Agreement as a requirement. 
+   
+   "**Submit**" is the act of uploading, submitting, transmitting, or distributing code or other content to any Project, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Project for the purpose of discussing and improving that Project.  
+   
+   "**Submission**" means the Code and any other copyrightable material Submitted by You, including any associated comments and documentation, specifications, data, materials, feedback, information or other works of authorship.  
 
 2. **Your Submission**. You must agree to the terms of this Agreement before making a Submission to any Project. This Agreement covers any and all Submissions that You, now or in the future (except as described in Section 4 below), Submit to any Project.  
 
