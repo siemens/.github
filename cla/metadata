@@ -1,0 +1,43 @@
+{
+    "name": {
+        "title": "Full name",
+        "type": "string",
+        "githubKey": "name",
+        "required": true
+    },
+    "email": {
+        "title": "Email",
+        "type": "string",
+        "githubKey": "email",
+        "required": true
+    },
+    "address": {
+        "title": "Address",
+        "type": "string"
+    },
+    "category": {
+        "title": "How do you sign?",
+        "type": {
+            "enum": [
+                "Signing on behalf of my employer (as specified in the fields below)",
+                "Signing for myself"
+            ]
+        },
+        "required": true
+    },
+    "companyName": {
+        "title": "Company name",
+        "description": "The legal name of your company, e.g. Siemens AG",
+        "type": "string"
+    },
+    "companyAddress": {
+        "title": "Company address",
+        "description": "The full address of your company, e.g. Werner-von-Siemens-Straße 1, 80333 Munich, Germany",
+        "type": "string"
+    },
+    "corporateTitle": {
+        "title": "Corporate title",
+        "description": "Your title in the company, e.g. Chief Technology Officer",
+        "type": "string"
+    }
+}
