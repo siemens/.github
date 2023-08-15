@@ -1,0 +1,17 @@
+name: Sync CLA
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Sync gist
+        uses: pentatonicfunk/action-gist-repo-sync@7378b11353524fe9a357e6029a66b1e83203ed33 # v1.7
+        with:
+          gist_id: 0bf49de685a723a39d047d3a9003bb46
+          gist_token: ${{ secrets.GIST_TOKEN }}
+          source_path: cla
