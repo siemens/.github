@@ -4,3 +4,4 @@ This repository contains files related to many or all repositories withing the `
 
 - the [Siemens Contributor License Agreement](cla/) and related automation
 - the [Siemens organization profile](profile/)
+- a [default security policy](SECURITY.md) for repositories that don't have their own
