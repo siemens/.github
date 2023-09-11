@@ -3,6 +3,15 @@
 Siemens takes the security of its code seriously. If you think you have found a security vulnerability,
 please read the next sections and follow the instructions to report your finding.
 
+## Scope of this policy
+
+This is the default security policy for all repositories within the `siemens` organzation on GitHub.com.
+
+It does not apply for reposities that have their own security policy.
+It also does not apply for forks where you should follow the upstream policy instead.
+
+If you are unsure whether the policy applies feel free to reach out via the channels mentioned below and we'll be happy to help.
+
 ## Reporting a Vulnerability
 
 Please DO NOT report any potential security vulnerability via a public channel (mailing list, GitHub issue etc.).
