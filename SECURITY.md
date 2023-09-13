@@ -19,4 +19,6 @@ Instead, [report the vulnerability privately via GitHub](https://docs.github.com
 (if enabled for the repository) or [contact us via email](mailto:opensource@siemens.com).
 
 Please provide a detailed description of the issue, the steps to reproduce it, the affected versions and, if already available,
-a proposal for a fix. You should receive a response within 5 working days.
+a proposal for a fix. You should receive a response within 5 working days. If for some reason you do not, please follow up via email to ensure we received your original message.
+
+If the issue is confirmed as a vulnerability by us, we will publish an advisory on (e.g. on GitHub) and give credits for your report if desired. We follow the coordinated vulnerability disclosure model and kindly ask you to help us define the appropriate disclosure timeline.
