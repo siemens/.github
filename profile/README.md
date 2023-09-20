@@ -1,7 +1,5 @@
 # Siemens ❤ Open Source
 
-Responsible. Excellent. Innovative.
-
 Siemens uses, maintains and contributes to Open Source.
 Click on the badges below to find more Siemens-powered [open source projects](https://opensource.siemens.com)!
 
