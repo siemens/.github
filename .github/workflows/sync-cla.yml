@@ -10,7 +10,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Sync gist
-        uses: pentatonicfunk/action-gist-repo-sync@7378b11353524fe9a357e6029a66b1e83203ed33 # v1.7
+        uses: pentatonicfunk/action-gist-repo-sync@7a37e23973f58c405adb0f4040bd6a4e4bd31779 # v1.8
         with:
           gist_id: 0bf49de685a723a39d047d3a9003bb46
           gist_token: ${{ secrets.GIST_TOKEN }}
