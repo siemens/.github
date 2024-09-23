@@ -50,11 +50,15 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official email address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This is the default Code of Conduct for all repositories within the `siemens`
+organization on GitHub.com.
+
+It does not apply for repositories that have their own Code of Conduct. It also
+does not apply for forks where you should follow the upstream Code of Conduct,
+if present, instead.
+
+If you are unsure whether the Code of Conduct applies feel free to reach out via
+the email address mentioned below and we'll be happy to help.
 
 ## Enforcement
 
