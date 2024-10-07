@@ -27,12 +27,13 @@ community include:
 
 Examples of unacceptable behavior include:
 
+* Public or private harassment
+* Trolling, insulting, derogatory comments, personal and political attacks
+* Publishing others' private information, such as comments received over private channels,
+  or private data like physical or email address, age or political orientation, without
+  their explicit permission
 * The use of sexualized language or imagery, and sexual attention or advances of
   any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -55,7 +56,7 @@ organization on GitHub.com.
 
 It does not apply for repositories that have their own Code of Conduct. It also
 does not apply for forks where you should follow the upstream Code of Conduct,
-if present, instead.
+if present, instead, or for downstream forks outside of our organization.
 
 If you are unsure whether the Code of Conduct applies feel free to reach out via
 the email address mentioned below and we'll be happy to help.
