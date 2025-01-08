@@ -1,17 +1,19 @@
-[tool.poetry]
+[project]
+authors = [
+    {name = "Siemens", email = "opensource@siemens.com"},
+]
+requires-python = "<4.0,>=3.12"
+dependencies = [
+    "PyGithub<3.0.0,>=2.4.0",
+    "loguru<1.0.0,>=0.7.2",
+]
+name = "siemens-github-helper-scripts" 
 package-mode = false
 description = "Helper scripts for managing github.com/siemens"
-authors = ["Siemens <opensource@siemens.com>"]
 readme = "README.md"
+version = "1.0.0"
 
-[tool.poetry.dependencies]
-python = "^3.12"
-PyGithub = "^2.4.0"
-loguru = "^0.7.2"
-
-[tool.poetry.group.dev.dependencies]
-ruff = "^0.8.0"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "ruff<1.0.0,>=0.8.0",
+]
