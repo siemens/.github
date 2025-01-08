@@ -9,9 +9,13 @@ on:
     branches: [main]
 
 jobs:
-  build:
-    name: Build
+  check-scripts:
+    name: Check scripts
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./scripts
     steps:
       - name: Checkout the repository
         uses: actions/checkout@main
