@@ -10,7 +10,7 @@ PyGithub = "^2.4.0"
 loguru = "^0.7.2"
 
 [tool.poetry.group.dev.dependencies]
-ruff = "^0.8.0"
+ruff = "^0.9.0"
 
 [build-system]
 requires = ["poetry-core"]
