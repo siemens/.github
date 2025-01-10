@@ -1,0 +1,30 @@
+name: CI
+
+permissions: read-all
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-scripts:
+    name: Check scripts
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./scripts
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@main
+      - name: Install the latest version of uv
+        uses: eifinger/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+      - name: Run ruff check
+        run: uv run --frozen ruff check
+      - name: Run ruff format
+        run: uv run --frozen ruff format --check

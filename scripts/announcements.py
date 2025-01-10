@@ -93,7 +93,7 @@ def main():
             issue = repo.create_issue(title=issue_title, body=issue_description)
             logger.info(f"Created issue {issue.html_url}")
 
-        except GithubException as e:
+        except GithubException:
             logger.warning(f"Failed to create issue in {repo.html_url}")
 
 
