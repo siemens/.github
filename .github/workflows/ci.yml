@@ -20,7 +20,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@main
       - name: Install the latest version of uv
-        uses: eifinger/setup-uv@v1
+        uses: eifinger/setup-uv@v5
         with:
           enable-cache: true
       - name: Run ruff check
