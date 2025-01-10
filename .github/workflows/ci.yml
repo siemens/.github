@@ -23,6 +23,7 @@ jobs:
         uses: eifinger/setup-uv@v5
         with:
           enable-cache: true
+          cache-dependency-glob: "uv.lock"
       - name: Run ruff check
         run: uv run --frozen ruff check
       - name: Run ruff format
