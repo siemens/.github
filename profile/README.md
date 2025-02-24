@@ -1,6 +1,9 @@
 # Siemens ❤ Open Source
 
-Siemens uses, maintains and contributes to Open Source.
+Siemens is a [technology company](https://www.siemens.com/global/en/company/about.html) focused on industry, infrastructure, transport, and healthcare.
+
+We use, maintain and contribute to Open Source.
+
 Click on the badges below to find more Siemens-powered [open source projects](https://opensource.siemens.com)!
 
 [![IOT2050](https://img.shields.io/badge/github-iot2050-green?logo=github)](https://github.com/SIMATICmeetsLinux)
