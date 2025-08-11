@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Sync gist
         uses: pentatonicfunk/action-gist-repo-sync@7a37e23973f58c405adb0f4040bd6a4e4bd31779 # v1.8
         with:
