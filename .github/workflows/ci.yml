@@ -20,7 +20,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@main
       - name: Install the latest version of uv
-        uses: eifinger/setup-uv@v5
+        uses: eifinger/setup-uv@v6
         with:
           enable-cache: true
           cache-dependency-glob: "uv.lock"
