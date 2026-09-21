@@ -4,7 +4,7 @@ Siemens is a [technology company](https://www.siemens.com/global/en/company/abou
 
 We use, maintain and contribute to Open Source.
 
-If you suspect an actively exploited vulnerability or a severe security incident involving one of the software repositories in this organization, please contact Siemens ProductCERT immediately at [productcert@siemens.com]((mailto:productcert@siemens.com)). Our security response team is here to respond quickly and support the necessary escalation and reporting steps.
+If you suspect an actively exploited vulnerability or a severe security incident involving one of the software repositories in this organization, please contact Siemens ProductCERT immediately at [productcert@siemens.com](mailto:productcert@siemens.com). Our security response team is here to respond quickly and support the necessary escalation and reporting steps.
 
 Click on the badges below to find more Siemens-powered [open source projects](https://opensource.siemens.com)!
 
